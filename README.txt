@@ -1,4 +1,6 @@
-from home Rahim
+How to update:
+https://help.github.com/articles/fork-a-repo
+
 Welcome to Apache Mahout!
 
 Getting Started
